@@ -1,0 +1,2 @@
+# AbstractInterface
+看万能Interface实现Fragment之间的通讯实现
